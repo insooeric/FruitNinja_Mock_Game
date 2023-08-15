@@ -13,7 +13,7 @@ This project is inspired by one of the famous games called Fruit Ninja.
 * Built and Executed in Unity 2022.3.7f1
 ### Installing
 
-* File "/Exports" includes an exported file for further development.
+* File "/Exports" includes an executable file.
 
 ### Executing program
 
