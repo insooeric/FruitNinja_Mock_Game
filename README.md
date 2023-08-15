@@ -43,6 +43,4 @@ Insoo Son [@LinkedIn]()
 none
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [@Fruit Ninja Game]([https://github.com/matiassingers/awesome-readme](https://poki.com/kr/g/fruit-ninja?campaign=14343986824&adgroup=126929064460&extensionid=&targetid=dsa-645606693027&location=9001075&matchtype=&network=g&device=c&devicemodel=&creative=604077469104&keyword=&placement=&target=&gclid=CjwKCAjwxOymBhAFEiwAnodBLFg_A4YnPABurMIuxOzJouBJhZHgTtvTBDyAcXA9mlQw-k8YLfNTpRoCcrYQAvD_BwE#)https://poki.com/kr/g/fruit-ninja?campaign=14343986824&adgroup=126929064460&extensionid=&targetid=dsa-645606693027&location=9001075&matchtype=&network=g&device=c&devicemodel=&creative=604077469104&keyword=&placement=&target=&gclid=CjwKCAjwxOymBhAFEiwAnodBLFg_A4YnPABurMIuxOzJouBJhZHgTtvTBDyAcXA9mlQw-k8YLfNTpRoCcrYQAvD_BwE#)
+* Fruit Ninja Game
