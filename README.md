@@ -40,13 +40,9 @@ Insoo Son [@LinkedIn]()
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+none
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [Fruit Ninja Game]([https://github.com/matiassingers/awesome-readme](https://poki.com/kr/g/fruit-ninja?campaign=14343986824&adgroup=126929064460&extensionid=&targetid=dsa-645606693027&location=9001075&matchtype=&network=g&device=c&devicemodel=&creative=604077469104&keyword=&placement=&target=&gclid=CjwKCAjwxOymBhAFEiwAnodBLFg_A4YnPABurMIuxOzJouBJhZHgTtvTBDyAcXA9mlQw-k8YLfNTpRoCcrYQAvD_BwE#)https://poki.com/kr/g/fruit-ninja?campaign=14343986824&adgroup=126929064460&extensionid=&targetid=dsa-645606693027&location=9001075&matchtype=&network=g&device=c&devicemodel=&creative=604077469104&keyword=&placement=&target=&gclid=CjwKCAjwxOymBhAFEiwAnodBLFg_A4YnPABurMIuxOzJouBJhZHgTtvTBDyAcXA9mlQw-k8YLfNTpRoCcrYQAvD_BwE#)
