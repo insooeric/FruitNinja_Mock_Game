@@ -10,28 +10,20 @@ This project is inspired by one of the famous games called Fruit Ninja.
 ## Getting Started
 
 ### Dependencies
-
-* Originally built in Unity 2022.2.14
-* UPDATED VERSION: 
+* Built and Executed in Unity 2022.3.7f1
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* File "/Exports" includes an exported file for further development.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Run Executable file under "Exports/UnityPrototype5.exe"
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Start the game by selecting the difficulty
+* Any objects except for the bomb grants points.
+* Failing to pop the accurate object will promote game over.
 
 ## Authors
 
