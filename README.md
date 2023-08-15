@@ -1,18 +1,18 @@
-# Fruit Ninja 
+# Fruit Ninja Mock Game
 
-Simple overview of use/purpose.
+Mock game of a Fruit Ninja.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A simple 2D game built in a 3D platform where the player clicks and pops the object thrown from the bottom.
+This project is inspired by one of the famous games called Fruit Ninja. 
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
+* Originally built in Unity 2022.2.14
+* UPDATED VERSION: 
 ### Installing
 
 * How/where to download your program
