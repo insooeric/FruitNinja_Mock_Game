@@ -27,15 +27,14 @@ This project is inspired by one of the famous games called Fruit Ninja.
 
 ## Authors
 
-Contributors names and contact info
-
 Insoo Son [@LinkedIn]()
 
 ## Version History
-
+* 1.0
+    * Executable file added
 * 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * Small Bugs fixed
+    * Fixed compatibility issues
 * 0.1
     * Initial Commit
 
