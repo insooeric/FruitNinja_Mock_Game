@@ -22,6 +22,7 @@ This project is inspired by one of the famous games called Fruit Ninja.
 ## Help
 
 * Start the game by selecting the difficulty
+* Click flying objects to destroy them.
 * Any objects except for the bomb grants points.
 * Failing to pop the accurate object will promote game over.
 
