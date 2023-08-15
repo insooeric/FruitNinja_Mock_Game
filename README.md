@@ -1,4 +1,4 @@
-# Project Title
+# Fruit Ninja 
 
 Simple overview of use/purpose.
 
