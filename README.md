@@ -29,8 +29,7 @@ This project is inspired by one of the famous games called Fruit Ninja.
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Insoo Son [@LinkedIn]()
 
 ## Version History
 
@@ -38,7 +37,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
     * Various bug fixes and optimizations
     * See [commit change]() or See [release history]()
 * 0.1
-    * Initial Release
+    * Initial Commit
 
 ## License
 
